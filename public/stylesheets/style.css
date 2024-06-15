@@ -7,10 +7,18 @@ a {
   color: #00B7FF;
 }
 
-nav a {
-  font-size: 1.5rem;
+footer {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f8f9fa;
 }
 
 footer a {
-  font-size: 1.5rem;
+  color: #333;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
