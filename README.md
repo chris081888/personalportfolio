@@ -5,3 +5,5 @@ Everything else was written by me, with some adjustments based on stackoverflow 
 Any code that was copied/pasted had to be heavily refactored.
 
 Luckily I churn out data websites at work all day :)
+
+Live link : https://my-portfolio-chris-549b10827c61.herokuapp.com/
